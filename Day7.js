@@ -2,7 +2,7 @@
 
 //take input from the users
 let a = 5;
-let b = 7;
+let b = 7; 
 
 //create a temporary variable
 let temp;
